@@ -1,6 +1,6 @@
 package rast
 
-import "github.com/aabalke/guac/emu/nds/rast/gl"
+import "github.com/SplaatSites/guac/emu/nds/rast/gl"
 
 func RGB24ToRGB15(r, g, b uint8) uint16 {
 	r5 := uint16(r >> 3)
