@@ -1,7 +1,7 @@
 package mem
 
 import (
-	"github.com/aabalke/guac/emu/nds/ppu"
+	"github.com/SplaatSites/guac/emu/nds/ppu"
 )
 
 type PowCnt struct {
