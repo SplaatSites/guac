@@ -1,6 +1,6 @@
 package gl
 
-import "github.com/aabalke/guac/emu/nds/utils"
+import "github.com/SplaatSites/guac/emu/nds/utils"
 
 type Shader struct {
 	Texture *Texture
