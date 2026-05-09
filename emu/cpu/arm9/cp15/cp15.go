@@ -1,7 +1,7 @@
 package cp15
 
 import (
-	"github.com/aabalke/guac/emu/nds/mem"
+	"github.com/SplaatSites/guac/emu/nds/mem"
 )
 
 type CpRegister struct {
