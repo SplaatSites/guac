@@ -29,7 +29,6 @@ type Config struct {
 	Gb               GbConfig         `toml:"gb"`
 	Gba              GbaConfig        `toml:"gba"`
 	Nds              NdsConfig        `toml:"nds"`
-	Min              MinConfig        `toml:"min"`
 	KeyboardConfig   KeyboardConfig   `toml:"keyboard"`
 	ControllerConfig ControllerConfig `toml:"controller"`
 	VsyncDisabled    bool             `coml:"vsync_disabled"`
