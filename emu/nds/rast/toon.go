@@ -1,6 +1,6 @@
 package rast
 
-import "github.com/aabalke/guac/emu/nds/rast/gl"
+import "github.com/SplaatSites/guac/emu/nds/rast/gl"
 
 func WriteToonTbl(t *[32]gl.Color, addr uint32, v uint8) {
 	addr -= 0x380
