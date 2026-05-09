@@ -156,7 +156,7 @@ func (c *Config) decodeNdsFirmware() {
 	}
 
 	if f.Message == "" {
-		f.Message = "Guac emulator by Aaron Balke!"
+		f.Message = "The dopefish lives!"
 	}
 }
 
