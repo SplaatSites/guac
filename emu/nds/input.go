@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"slices"
 
-	"github.com/aabalke/guac/config"
-	"github.com/aabalke/guac/input"
+	"github.com/SplaatSites/guac/config"
+	"github.com/SplaatSites/guac/input"
 	"github.com/hajimehoshi/ebiten/v2"
 )
 
