@@ -3,8 +3,8 @@ package gba
 import (
 	"log"
 
-	"github.com/aabalke/guac/config"
-	"github.com/aabalke/guac/emu/gba/cart"
+	"github.com/SplaatSites/guac/config"
+	"github.com/SplaatSites/guac/emu/gba/cart"
 )
 
 // ygba
