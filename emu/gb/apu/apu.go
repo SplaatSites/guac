@@ -1,7 +1,7 @@
 package apu
 
 import (
-	"github.com/aabalke/guac/config"
+	"github.com/SplaatSites/guac/config"
 	"github.com/hajimehoshi/oto"
 )
 
