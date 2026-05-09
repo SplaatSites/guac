@@ -3,7 +3,7 @@ package snd
 import (
 	"fmt"
 
-	"github.com/aabalke/guac/config"
+	"github.com/SplaatSites/guac/config"
 	"github.com/hajimehoshi/ebiten/v2"
 	"github.com/hajimehoshi/oto"
 )
