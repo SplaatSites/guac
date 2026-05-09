@@ -6,7 +6,7 @@ import (
 	"encoding/binary"
 	"time"
 
-	"github.com/aabalke/guac/config"
+	"github.com/SplaatSites/guac/config"
 )
 
 var bbinit = [0x69]byte{
