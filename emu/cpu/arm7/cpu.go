@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"unsafe"
 
-	"github.com/aabalke/guac/emu/cpu"
+	"github.com/SplaatSites/guac/emu/cpu"
 )
 
 type Cpu struct {
