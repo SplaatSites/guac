@@ -1,8 +1,8 @@
 package rast
 
 import (
-	"github.com/aabalke/guac/emu/nds/rast/gl"
-	"github.com/aabalke/guac/emu/nds/utils"
+	"github.com/SplaatSites/guac/emu/nds/rast/gl"
+	"github.com/SplaatSites/guac/emu/nds/utils"
 )
 
 func (g *GeoEngine) BoxTest(data []uint32, clipMtx *gl.Matrix) {
