@@ -6,7 +6,7 @@ import (
 
 	_ "embed"
 
-	"github.com/aabalke/guac/config"
+	"github.com/SplaatSites/guac/config"
 	"github.com/hajimehoshi/ebiten/v2"
 	"github.com/hajimehoshi/ebiten/v2/audio"
 )
