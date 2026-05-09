@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/aabalke/guac/config"
-	"github.com/aabalke/guac/utils"
+	"github.com/SplaatSites/guac/config"
+	"github.com/SplaatSites/guac/utils"
 )
 
 const (
