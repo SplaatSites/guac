@@ -5,7 +5,7 @@ import (
 	"math/bits"
 	"unsafe"
 
-	"github.com/aabalke/guac/emu/cpu/arm9/cp15"
+	"github.com/SplaatSites/guac/emu/cpu/arm9/cp15"
 	"math"
 )
 
