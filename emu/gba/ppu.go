@@ -2,7 +2,7 @@ package gba
 
 import (
 	"encoding/binary"
-	//"github.com/aabalke/guac/emu/gba/utils"
+	//"github.com/SplaatSites/guac/emu/gba/utils"
 )
 
 type PPU struct {
