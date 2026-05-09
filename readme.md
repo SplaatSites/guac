@@ -8,12 +8,15 @@ Advance, and Nintendo DS handheld consoles.
 
 ![gb500](https://github.com/user-attachments/assets/e65c8cd3-c7c6-4ee4-9b8e-8ea3d1c5d5ea)![gba500](https://github.com/user-attachments/assets/bc770659-3f35-4c90-b295-9e0c994ad929)![nds500](https://github.com/user-attachments/assets/5c4c34d7-3665-4b84-94d7-8e56ee803fec)
 
-# Installation / Building
+# Building
 
-See Releases for Windows and Linux precompiled binaries.
+Building from source is possible with golang > 1.26.0, by following these simple steps:
 
-Building from source is possible with golang > 1.26.0, using:
-
+1. Clone this repository through [git](https://git-scm.com/):
+```
+git clone https://github.com/SplaatSites/guac.git
+```
+2. Build the project
 ```
 go build .
 ```
@@ -82,6 +85,9 @@ present config.toml file and run the emulator.
 3. Screen Layout, Sizing and Rotation
 4. Real Time Clock offset
 5. 3D Scene Export options
+
+### Pokémon Mini
+1. WIP
 
 # Testing
 
