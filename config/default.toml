@@ -227,3 +227,15 @@ y = [2]
 directory = "./export/"
 file_type = "obj"
 shadow_polygons = false
+
+# Pokémon Mini Configuration
+
+[min]
+
+[min.keyboard]
+a = ["J"]
+b = ["K"]
+left = ["A"]
+right = ["D"]
+up = ["W"]
+down = ["S"]
