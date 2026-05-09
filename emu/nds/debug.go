@@ -3,7 +3,7 @@ package nds
 import (
 	"fmt"
 
-	"github.com/aabalke/guac/emu/nds/debug"
+	"github.com/SplaatSites/guac/emu/nds/debug"
 )
 
 var validModes = map[uint32]bool{
