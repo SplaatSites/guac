@@ -1,6 +1,6 @@
-# <img width="36" height="36" alt="icon" src="https://github.com/user-attachments/assets/d86dfbbf-a12b-4cc5-843f-0efa84047eb9" /> guac: NDS, GBA, GBC, DMG Emulator
+# <img width="36" height="36" alt="icon" src="https://github.com/user-attachments/assets/d86dfbbf-a12b-4cc5-843f-0efa84047eb9" /> guac-rf (Guac Rodrigo's Fork): NDS, GBA, GBC, DMG, Pokémon Mini Emulator
 
-Guac is an Emulator written in golang for Gameboy, Gameboy Color, Gameboy
+Guac is an Emulator written in golang for Gameboy, Pokémon Mini, Gameboy Color, Gameboy
 Advance, and Nintendo DS handheld consoles.
 
 [Original Breakdown](https://youtu.be/BP_sMHJ99n0)
@@ -28,7 +28,7 @@ as the rom file (ex. "harvest_moon.gba", "harvest_moon.gba.save")
 
 ## Command line
 
-Run the executable with a rom path (gb, gbc, gba, nds are required extensions) to
+Run the executable with a rom path (gb, gbc, gba, nds, min are required extensions) to
 immediately enter the game.
 
 ```
