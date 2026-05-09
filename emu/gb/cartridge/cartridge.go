@@ -6,7 +6,7 @@ import (
 	"slices"
 	"strings"
 
-	"github.com/aabalke/guac/config"
+	"github.com/SplaatSites/guac/config"
 )
 
 type Cartridge struct {
