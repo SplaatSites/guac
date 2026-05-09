@@ -6,7 +6,7 @@ import (
 	"unsafe"
 
 	"github.com/aabalke/gojit"
-	"github.com/aabalke/guac/config"
+	"github.com/SplaatSites/guac/config"
 )
 
 const (
