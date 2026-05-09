@@ -1,9 +1,9 @@
 package rast
 
 import (
-	"github.com/aabalke/guac/config"
-	"github.com/aabalke/guac/emu/cpu"
-	"github.com/aabalke/guac/emu/nds/rast/gl"
+	"github.com/SplaatSites/guac/config"
+	"github.com/SplaatSites/guac/emu/cpu"
+	"github.com/SplaatSites/guac/emu/nds/rast/gl"
 )
 
 const (
