@@ -6,7 +6,7 @@ import (
 	"time"
 	"unsafe"
 
-	"github.com/aabalke/guac/config"
+	"github.com/SplaatSites/guac/config"
 )
 
 type Memory struct {
