@@ -6,9 +6,9 @@ import (
 	"unsafe"
 
 	"github.com/aabalke/gojit"
-	"github.com/aabalke/guac/config"
+	"github.com/SplaatSites/guac/config"
 
-	"github.com/aabalke/guac/emu/cpu/arm9/cp15"
+	"github.com/SplaatSites/guac/emu/cpu/arm9/cp15"
 	sys_cpu "golang.org/x/sys/cpu"
 )
 
