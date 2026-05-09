@@ -1,7 +1,7 @@
 package ppu
 
 import (
-	"github.com/aabalke/guac/emu/nds/rast"
+	"github.com/SplaatSites/guac/emu/nds/rast"
 )
 
 type Capture struct {
