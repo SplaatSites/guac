@@ -7,7 +7,7 @@ import (
 
 	"sync"
 
-	"github.com/aabalke/guac/emu/nds/rast/gl"
+	"github.com/SplaatSites/guac/emu/nds/rast/gl"
 )
 
 const (
