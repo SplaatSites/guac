@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"math"
 
-	"github.com/aabalke/guac/emu/cpu"
-	"github.com/aabalke/guac/emu/nds/rast/gl"
-	"github.com/aabalke/guac/emu/nds/utils"
+	"github.com/SplaatSites/guac/emu/cpu"
+	"github.com/SplaatSites/guac/emu/nds/rast/gl"
+	"github.com/SplaatSites/guac/emu/nds/utils"
 )
 
 var paramCnt = [0x73]int{}
