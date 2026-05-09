@@ -4,7 +4,7 @@ import (
 	"time"
 	"unsafe"
 
-	"github.com/aabalke/guac/emu/gb/cartridge"
+	"github.com/SplaatSites/guac/emu/gb/cartridge"
 )
 
 type MemoryBus struct {
