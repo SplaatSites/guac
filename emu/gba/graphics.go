@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/aabalke/guac/config"
+	"github.com/SplaatSites/guac/config"
 )
 
 var wg = sync.WaitGroup{}
