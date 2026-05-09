@@ -3,7 +3,7 @@ package ppu
 import (
 	"unsafe"
 
-	"github.com/aabalke/guac/emu/nds/rast"
+	"github.com/SplaatSites/guac/emu/nds/rast"
 )
 
 const (
