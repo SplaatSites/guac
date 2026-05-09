@@ -3,9 +3,9 @@ package gameboy
 import (
 	"log"
 
-	"github.com/aabalke/guac/config"
-	"github.com/aabalke/guac/emu/gb/apu"
-	"github.com/aabalke/guac/emu/gb/cartridge"
+	"github.com/SplaatSites/guac/config"
+	"github.com/SplaatSites/guac/emu/gb/apu"
+	"github.com/SplaatSites/guac/emu/gb/cartridge"
 	"github.com/hajimehoshi/ebiten/v2"
 	"github.com/hajimehoshi/oto"
 )
