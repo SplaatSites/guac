@@ -3,7 +3,7 @@ package gba
 import (
 	"unsafe"
 
-	"github.com/aabalke/guac/emu/gba/cart"
+	"github.com/SplaatSites/guac/emu/gba/cart"
 )
 
 //var DMA_ACTIVE = -1
