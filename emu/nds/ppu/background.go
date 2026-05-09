@@ -3,7 +3,7 @@ package ppu
 import (
 	"unsafe"
 
-	"github.com/aabalke/guac/emu/nds/utils"
+	"github.com/SplaatSites/guac/emu/nds/utils"
 )
 
 func (e *Engine) getBgPriority(y uint32) {
