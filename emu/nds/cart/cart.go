@@ -6,10 +6,10 @@ import (
 	"log"
 	"time"
 
-	"github.com/aabalke/guac/config"
-	"github.com/aabalke/guac/emu/cpu"
-	"github.com/aabalke/guac/emu/nds/mem/dma"
-	"github.com/aabalke/guac/utils"
+	"github.com/SplaatSites/guac/config"
+	"github.com/SplaatSites/guac/emu/cpu"
+	"github.com/SplaatSites/guac/emu/nds/mem/dma"
+	"github.com/SplaatSites/guac/utils"
 )
 
 type Cartridge struct {
