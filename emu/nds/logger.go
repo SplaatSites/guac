@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/aabalke/guac/emu/nds/debug"
+	"github.com/SplaatSites/guac/emu/nds/debug"
 )
 
 func Log(nds *Nds, start, end uint64, arm9 bool) {
