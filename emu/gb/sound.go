@@ -3,7 +3,7 @@ package gameboy
 import (
 	"fmt"
 
-	"github.com/aabalke/guac/emu/gb/apu"
+	"github.com/SplaatSites/guac/emu/gb/apu"
 )
 
 func (gb *GameBoy) WriteSound(addr, v uint8, a *apu.Apu) {
