@@ -6,10 +6,10 @@ import (
 	"math/bits"
 	"time"
 
-	"github.com/aabalke/guac/config"
-	"github.com/aabalke/guac/emu/cpu"
-	"github.com/aabalke/guac/emu/nds/rast"
-	"github.com/aabalke/guac/emu/nds/utils"
+	"github.com/SplaatSites/guac/config"
+	"github.com/SplaatSites/guac/emu/cpu"
+	"github.com/SplaatSites/guac/emu/nds/rast"
+	"github.com/SplaatSites/guac/emu/nds/utils"
 	"github.com/hajimehoshi/ebiten/v2"
 )
 
