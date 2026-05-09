@@ -3,7 +3,7 @@ package rast
 import (
 	"fmt"
 
-	"github.com/aabalke/guac/emu/nds/utils"
+	"github.com/SplaatSites/guac/emu/nds/utils"
 )
 
 func (r *Rasterizer) Read(addr uint32) uint8 {
