@@ -1,5 +1,4 @@
-<img height="36" weight="36" src="https://raw.githubusercontent.com/SplaatSites/guac/refs/heads/master/icons/icon.png"> 
-# guac-rf (Guac Rodrigo’s Fork): NDS, GBA, GBC, DMG, Pokémon Mini Emulator
+# <img height="36" weight="36" src="https://raw.githubusercontent.com/SplaatSites/guac/refs/heads/master/icons/icon.png"> guac-rf (Guac Rodrigo’s Fork): NDS, GBA, GBC, DMG, Pokémon Mini Emulator 
 
 Guac is an Emulator written in golang for Gameboy, Pokémon Mini, Gameboy Color, Gameboy
 Advance, and Nintendo DS handheld consoles.
