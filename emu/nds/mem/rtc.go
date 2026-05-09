@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/aabalke/guac/config"
+	"github.com/SplaatSites/guac/config"
 )
 
 // interrupts not setup
