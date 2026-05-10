@@ -1,4 +1,4 @@
-module github.com/aabalke/guac
+module github.com/SplaatSites/guac
 
 //replace github.com/aabalke/gojit => C:\dev\repos\jit\gojit
 
