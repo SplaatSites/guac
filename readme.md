@@ -16,6 +16,10 @@ Building from source is possible with golang > 1.26.0, by following these simple
 ```
 git clone https://github.com/SplaatSites/guac.git
 ```
+(Optional) Update the cloned repo
+```
+git pull
+```
 2. Build the project
 ```
 go build .
