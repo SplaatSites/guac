@@ -28,7 +28,7 @@ go build .
 # Getting Started
 
 In both command line and console mode, save files are placed in the same directory
-as the rom file (ex. "harvest_moon.gba", "harvest_moon.gba.save")
+as the rom file (ex. "toki_tori.gbc", "toki_tori.gbc.save")
 
 ## Command line
 
