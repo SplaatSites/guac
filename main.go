@@ -18,6 +18,10 @@ import (
 
 	"os"
 	"runtime/pprof"
+   
+	"fmt"
+
+    tea "charm.land/bubbletea/v2"
 )
 
 const (
