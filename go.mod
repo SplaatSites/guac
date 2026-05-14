@@ -5,6 +5,8 @@ module github.com/SplaatSites/guac
 go 1.26.0
 
 require (
+    charm.land/bubbletea/v2 v2.0.2
+	charm.land/lipgloss/v2 v2.0.2
 	github.com/BurntSushi/toml v1.5.0
 	github.com/aabalke/gojit v0.0.0-20260308010726-39b348b38c78
 	github.com/hajimehoshi/ebiten/v2 v2.9.7
